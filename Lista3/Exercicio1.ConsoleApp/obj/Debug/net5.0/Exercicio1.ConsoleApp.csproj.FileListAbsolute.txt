@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\ref\Exercicio1.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\bin\Debug\net5.0\Exercicio1.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\ref\Exercicio1.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Lista3\Lista3\Exercicio1.ConsoleApp\obj\Debug\net5.0\Exercicio1.ConsoleApp.genruntimeconfig.cache
